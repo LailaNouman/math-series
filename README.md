@@ -1,22 +1,28 @@
-roject: Math Series
-Author: Laila Nouman
-Links and Resources
-Setup
+# LAB - Class 02
+## Project: Math Series
+### Author: Laila Nouman
 
-No PORT or DATABASE URL
-How to initialize/run your application (where applicable)
 
-python ./series.py
-How to use your library (where applicable)
+### Links and Resources
+**Setup**
 
-No Libraries
-Tests
+- No PORT or DATABASE URL
 
-How do you run tests?
+**How to initialize/run your application (where applicable)**
+
+- python ./series.py
+
+
+**How to use your library (where applicable)**
+- No Libraries
+
+**Tests**
+- How do you run tests? 
+
 Navigate to each test file then run it either from the UI of the code editor or the terminal
+- Any tests of note? 
 
-Any tests of note?
 No
+- Describe any tests that you did not complete, skipped, etc
 
-Describe any tests that you did not complete, skipped, etc
-I didn't skip any test
+I didn't skip any test.
